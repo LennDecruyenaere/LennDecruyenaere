@@ -20,7 +20,7 @@
 
 ## 🦾Projecten
 - 🎲Eindwerk 5de jaar (dambord in C#)
-- 🔥Eigenwebsite via BlazorWebApp
+- 🔥Eigen website via BlazorWebApp
 - 🏓Pong in C#
 
 ---
